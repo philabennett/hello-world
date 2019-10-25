@@ -1,3 +1,3 @@
 # hello-world
-me learning git things
-got as far as branches
+Fter a long lay off I'm having another go at git
+
